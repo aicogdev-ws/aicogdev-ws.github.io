@@ -1,22 +1,23 @@
 ---
 layout: default
-title: Architecting Intelligence: 
+title: AI:CogDev
 header_type: hero
-subtitle: Exploring Intersections in Cognitive Robotics and Developmental Learning
 permalink: /
 ---
 
+<!-- Hero Banner -->
+<div style="text-align:center; margin-bottom: 2rem;">
+  <img src="{{ site.baseurl }}/assets/images/banner.jpg" 
+       alt="INSIGHT 2026 Banner" 
+       style="width:100%; max-height:400px; object-fit:cover; border-radius:12px;">
+</div>
 
-# Architecting Intelligence:
+### Architecting Intelligence: Exploring Intersections in Cognitive Robotics and Developmental Learning
 
----
+**Workshop to foster communication between the communities working on themes related to Cognition, Development, Artificial Intelligence, and Robotics.**
 
-## Exploring Intersections in Cognitive Robotics and Developmental Learning
-
-**Workshop to foster communication between the communities working on themes related to Cognition, Development, Artificial Intelligence, and Robotics.
-
-15 September 2026 - Kyoto, Japan
-[ICDL 2026](!https://attend.ieee.org/icdl-2026/) 
+📅 15 September 2026 - Kyoto, Japan
+🌏 [ICDL 2026](!https://attend.ieee.org/icdl-2026/) 
 
 ---
 
